@@ -1,6 +1,6 @@
 package io.reflectoring.estudos;
 
-public class PraticasBasicJava {
+public class PraticasBasicJava1 {
     
 public static void main(String[] args) {
 
