@@ -27,7 +27,7 @@ public class NumeroAleatorio {
         }
 
         if(num != numeroGerado) {
-            System.out.println("Você errou o número, mais sorte da próxima vez!");
+            System.out.println("Você errou o número, o número era " + numeroGerado + ", mais sorte da próxima vez!");
         }
 
     }
