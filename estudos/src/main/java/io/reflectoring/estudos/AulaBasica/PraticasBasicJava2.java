@@ -1,4 +1,4 @@
-package io.reflectoring.estudos;
+package io.reflectoring.estudos.AulaBasica;
 
 import java.util.Scanner;
 
